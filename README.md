@@ -1,3 +1,3 @@
-# TP2_Securite-et-Referencement
+# TP_Securite-et-Referencement
 
 Travail d'équipe en sécurité et référencement. 
